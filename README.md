@@ -1,4 +1,4 @@
-# meaningfull-short-stories
+# meaningful-short-stories
 add any meaningful short stories
 ## <b> Create A File </b>
 <p>
